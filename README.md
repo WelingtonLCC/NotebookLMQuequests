@@ -28,3 +28,4 @@ Status: O usuário acompanha o progresso via Polling (consultas periódicas) ou 
 .
 🔗 Links Relacionados
 Notebook desta conversa: Acesse aqui
+https://notebooklm.google.com/notebook/4645f705-0d75-4710-b866-03ae38200cab
